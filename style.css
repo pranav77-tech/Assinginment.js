@@ -1,0 +1,37 @@
+span{
+    color: red;
+}
+body{
+    background-color: rgb(2, 2, 54);
+}
+h1{
+    text-align: center;
+    font-style: initial;
+    color: rgb(248, 245, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    background-color: rgb(209, 238, 250);
+    color: rgb(1, 12, 12);
+    border: 0;
+    border-radius: 5px;
+    width: 150px;
+    height: 20px;  
+    font-size: 15px;
+     
+}
+button{
+    background-color: rgb(241, 241, 245);
+    border-color: azure;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px;  
+}
+
